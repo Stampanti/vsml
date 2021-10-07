@@ -1,9 +1,6 @@
 <h1 align="center">VSML</h1>
 <h3 align="center">VideoStampanti Website Generator</h3>
 <br>
-<br>
-<br>
-<br>
 <h2 align="center">How it works</h2>
 <h3 align="center">Scripts</h3>
 <p>You can import scripts into your page by adding their URL in the <code>config/scripts/default.json</code> file.<br>
