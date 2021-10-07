@@ -6,7 +6,8 @@
 <p>You can import scripts into your page by adding their URL in the <code>config/scripts/default.json</code> file.<br>
 Scripts in the "headScript#" strings are put in the <head> section of the HTML file [TODO], while the ones in "bodyScript#" are put in the <body> section of the HTML file [Working].</p>
 <h3 align="center">Styles</h3>
-<p>You can import styles into your page by adding their URL in the <code>config/styles/default.json</code> file.<br></p>
+<p>You can import styles into your page by adding their URL in the <code>config/styles/default.json</code> file.<br>
+If you want to apply styles to the body, you can either use an external CSS stylesheet or edit it in the <code>bodyCss</code> string in the <code>config/pages/metatags.json</code> file.</p>
 <h3 align="center">Pages</h3>
 <p>Create a file with the page's name at <code>config/pages/[pagename].vsml</code>, containing the body of the page. <a href="config/pages/page1.vsml">See an example</a>.<br>
 To create the page, use <code>python3 generatePages.py [pagename]</code>.<br>
