@@ -1,0 +1,11 @@
+{
+    "addDoctype":"true",
+    "charset":"UTF-8",
+    "description":"VSML",
+    "keywords":"HTML, VSML, PYTHON",
+    "author":"VideoStampanti",
+    "viewport":"width=device-width, initial-scale=1.0",
+    "title":"test",
+    "lang": "en",
+    "bodyCss":"background-color: skyblue;"
+}
